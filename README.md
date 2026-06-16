@@ -100,21 +100,3 @@ Shows how many properties exist in each bedroom category, representing the level
 | **Kaggle**    | Source of Retail Dataset           |
 
 ---
-
-## 🧪 How to Explore This Dashboard
-
-1. **Download Dataset**  
-   → [Sales Forecasting Dataset on Kaggle](https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting)
-
-2. **Open Tableau Desktop or Tableau Public**
-
-3. **Connect to the Excel File**  
-   Ensure correct sheet and data types
-
-4. **Open the Dashboard File**  
-   If available (`.twb` / `.twbx`), simply double-click to explore
-
-5. **Interact and Analyze**  
-   Use built-in filters to dive into specific customer names or months
-
----
