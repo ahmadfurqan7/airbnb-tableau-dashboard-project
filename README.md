@@ -1,6 +1,6 @@
 # 📊 Airbnb Seattle data analytics dashboard
 
-![Dashboard Public](https://public.tableau.com/views/AirBnBProject_17815915377440/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[Dashboard Public](https://public.tableau.com/views/AirBnBProject_17815915377440/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 ![Dashboard Screenshot](dashboard.jpg)
 
 ## 🚀 Overview
@@ -22,6 +22,7 @@ The Airbnb Business Case
 ## 📦 Dataset Details
 
  **Source**: [Kaggle - Airbnb Listings 2016 Dataset](https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset)
+ 
  About this file
 |Table         | Row                                 | Column |
 |---------------|------------------------------------|--------|
